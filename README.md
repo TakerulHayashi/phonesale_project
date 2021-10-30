@@ -1,3 +1,3 @@
-# pulsometrproject
+# phonsale_project
 
-Shop site for saling pulsometrs.
+Shop site for saling phones.
